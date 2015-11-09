@@ -6,4 +6,8 @@
     <color name="colorWindowBackground">#3e3838</color>
     <color name="colorTextColorPrimary">#0082da</color>
     <color name="colorTextColorSecondary">#515151</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_grey">#424242</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="button_grey">#757575</color>
 </resources>
